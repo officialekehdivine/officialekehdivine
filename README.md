@@ -1,16 +1,24 @@
-## Hi there 👋
+Hi! I’m Ekeh Divine (also known as Ghost 👻), a passionate DevOps enthusiast currently studying at the Nigeria Defense Academy 🎓. I love exploring and researching new technologies, always eager to expand my skills and knowledge in the development and operations space 🚀.
 
-<!--
-**officialekehdivine/officialekehdivine** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Skills & Expertise ⚙️
+DevOps tools and practices 🔧
 
-Here are some ideas to get you started:
+Continuous Integration & Continuous Deployment (CI/CD) 🔄
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Cloud infrastructure management ☁️
+
+Automation and scripting 🤖
+
+Collaboration and teamwork 🤝
+
+Interests 🌟
+Exploring emerging tech trends 🌐
+
+Learning about software development and operations 📚
+
+Problem-solving and optimizing workflows 🧩
+
+Contributing to open-source projects 💻
+
+I’m always excited to connect with fellow tech enthusiasts, potential employers, and collaborators. Feel free to check out my projects and reach out! ✉️
+
